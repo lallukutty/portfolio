@@ -1,0 +1,20 @@
+/* Fonts */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext);
+/*font-family: 'Open Sans', sans-serif;*/
+
+/* Typography
+----------------------------------------------------------------------------- */
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+html,body {
+  font-family: 'Open Sans', sans-serif ;
+  font-size: 15px;
+  font-weight: 
+  line-height: 1.50;
+  color: #333333;
+  background-color: #ffffff;
+  text-rendering: optimizeLegibility;
+}
